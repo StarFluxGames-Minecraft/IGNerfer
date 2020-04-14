@@ -1,0 +1,12 @@
+ name: IGNerfer
+ version: 1.0
+ description: Ability to nerf Iron Golem spawn rates
+ author: StarFluxGames
+ authors: [StarFluxGames]
+ website: http://starfluxgames.com/
+ 
+ main: com.starfluxgames.ignerfer.Main
+ 
+ commands:
+   ignreload:
+     description: Reloads config.
